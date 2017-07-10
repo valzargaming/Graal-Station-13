@@ -4,3 +4,6 @@ Developer resources:
 http://www.graal.net/  
 http://gswiki.wikidot.com/  
 http://forums.graalonline.com/forums/ (Must be logged in)
+
+Public Discord:  
+https://discord.gg/tjaK9EW
